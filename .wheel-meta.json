@@ -1,0 +1,22 @@
+{
+  "wheel_id": 687,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-110",
+  "project": "retaining-wall-builders-brisbane-questions-to-ask-0320d44a929f0",
+  "parent_t1_ref": "retainingwallsbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining wall builders brisbane questions to ask",
+  "intended_url": "https://sitesau.github.io/retainingwallsbrisbane-110/",
+  "tier": "T2",
+  "writeback_nonce": "fb1fb9d8a8060c16",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-brisbane-cost-guide-f2be0251ecd88501768.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://retaining-wall-builders-brisbane-cost-guide-f2be0251ecd88501768.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
